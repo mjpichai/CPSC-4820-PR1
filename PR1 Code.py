@@ -59,26 +59,3 @@ for i in user_allergens:
   # Resets the list for the next allergen
   good_items = []
         
-
-
-
-    
-      
-#   print('Red: ')
-
-# 
-
-# print(user_allergens)
-  
-
-
-
-
-
-
-
-
-
-
-
-### end ###
